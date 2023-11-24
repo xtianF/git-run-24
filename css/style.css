@@ -1,0 +1,23 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+.one-column-css-grid {
+    display: grid;
+    gap: .3rem;
+    border: 1px solid #000;
+    padding: 1rem;
+}
+
+.css-g-row {
+    align-self: center;
+    justify-self: center;
+    color: #fff;
+
+}
+
+img {
+
+}
